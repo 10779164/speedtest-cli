@@ -1,6 +1,18 @@
 speedtest-cli
 =============
 
+git clone https://github.com/10779164/speedtest-cli.git
+
+cd speedtest-cli
+
+python speedtest.py
+
+=============
+
+
+
+
+
 Command line interface for testing internet bandwidth using
 speedtest.net
 
